@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59934c57-b5ae-494e-9223-47f3901e1cbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SENLA_test_task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/StringProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/IntegerProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task3/WorldProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/LargeNumberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task5/Safe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SergeyVetyutnev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SergeyVetyutnev/SENLA-test-task.git",
+    "accountId": "af2ef608-342d-41cb-932a-d1b16126febd"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -124,6 +119,7 @@
       <workItem from="1717140442349" duration="4351000" />
       <workItem from="1717167967810" duration="13880000" />
       <workItem from="1717219210466" duration="158000" />
+      <workItem from="1717219538144" duration="3184000" />
     </task>
     <servers />
   </component>
